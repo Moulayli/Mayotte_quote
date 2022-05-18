@@ -7,3 +7,13 @@ Quote Mayotte App (Android / iOS) build with React Native.
 <img src="https://github.com/Moulayli/Mayotte_quote/blob/main/example/img2.jpg" height="300" width="150" />
 <img src="https://github.com/Moulayli/Mayotte_quote/blob/main/example/img3.jpg" height="300" width="150" />
 
+# technology 💻⌨️
+React Native 
+
+
+# Your turn ✍️✍️
+clone https://github.com/Moulayli/Mayotte_quote.git
+
+npm start 
+
+
